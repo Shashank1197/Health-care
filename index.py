@@ -3,7 +3,7 @@
 # Import libraries
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns 
 
 # Load the dataset
 file_path = 'healthcare_dataset.csv'  # Make sure the CSV is in the same folder
