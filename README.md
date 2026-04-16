@@ -57,6 +57,10 @@ Included in this repository:
 - `healthcare_analysis_output.png` – Sample output/visualization   
 - `index.py` – Main Python script for running analysis
 
+### Sample Output
+
+![Healthcare analysis output](healthcare_analysis_output.png)
+
 _(Adjust names and descriptions if they differ in your repo)_
 
 ---
